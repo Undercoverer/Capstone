@@ -32,16 +32,32 @@
      - Filtering (1)
      - Videos (1)
 
-5. Other
+5. Account Page (1)
+   - Upload Video
+   - Display Account Info
+   - Logout
+   - Edit Account Info
+
+7. Other
   - Tag following (2)
 
 # Backend Concerns (B)
+1. Endpoints
+   - See Above (Frontend)
+   - Database Access
 
+2. Database
 
 # Our Concerns (A)
-
-
-A - Product Developers (Us)
+1. API Implementation
+   - Specs
+       - Documentation
+       - OpenAPI
+   - Logic (the code)
+  
+2. Principled Design
+   
+A - Product Developers (Us/API)
 B - Product Implementers (Interface)
 C - Users (Audience)
 
