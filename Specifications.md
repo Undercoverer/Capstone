@@ -13,6 +13,7 @@
     - Date
   - Interactions (2)
     - Following
+    - View Count
     - Likes / Dislikes / Rating (3)
     - Comments
   - Recommended Videos (3)
